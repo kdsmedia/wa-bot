@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-   <a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"> "AGUS BOT" <a href="https://imgbb.com/"><img src="https://i.ibb.co/HNvqY6F/vvipindo-bot.jpg" alt="vvipindo-bot" border="0"></a>
+   <a href="https://repository-images.githubusercontent.com/292765152/b5b54c80-ef19-11ea-9998-10a88f042830"><a href="https://imgbb.com/"><img src="https://i.ibb.co/HNvqY6F/vvipindo-bot.jpg" alt="vvipindo-bot" border="0"></a>
     <h3> SCRIPT MODIFIKASI BUKAN HASIL SENDIRI </h3>
 
 # Hai 👋🏻
@@ -36,7 +36,7 @@ Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/de
 * Apikey vhtear
 * Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/AgusAliansyah/vvipbot-wa/blob/master/index.js/#L13)
+Custom di sini [SETTING](https://github.com/kdsmedia/wa-bot/blob/master/index.js/#L13)
 
 
 ## Penginstalan
@@ -51,8 +51,8 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 ```
 Lalu clone repo
 ```bash
-> git clone https://github.com/AgusAliansyah/vvipbot-wa
-> cd vvipbot-wa
+> git clone https://github.com/kdsmedia/wa-bot
+> cd wa-bot
 ```
 Lanjutkan dengan
 ```bash
@@ -186,15 +186,8 @@ Terakhir scan kode QR
 | Owner|✅|
 
 ## Contacts
-* [Instagram](https://www.instagram.com/agus.alnsyh71)
-* My whatsapp [Agus Aliansyah](https://wa.me/6289613469459)
+* [Telegram][ALTO MEDIA](https://t.me/altoindonesia)
+* [Telegram][MAXWOW]https://t.me/maxwowchannel)
+* My whatsapp [ALTO MEDIA](https://wa.me/6283872543697)
 
 
-## Terimakasih untuk
-* [`Fdciabdul`](https://github.com/fdciabdul)
-* [`mrfzvx12`](https://github.com/mrfzvx12)
-* [`Aruga`](https://github.com/ArugaZ)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Alfiansx`](https://github.com/alfiansx)
-* [`Bintang73`](https://github.com/Bintang73)
-* [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
